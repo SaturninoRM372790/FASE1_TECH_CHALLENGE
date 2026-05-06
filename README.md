@@ -8,7 +8,7 @@
 
 #Data: 05/05/2026
 
-##Entregáveis
+#Entregáveis
 
 #• Repositório GitHub: https://github.com/SaturninoRM372790/FASE1_TECH_CHALLENGE 
 
